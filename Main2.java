@@ -1,4 +1,4 @@
-
+//calculating salaried employee and hourly employee's salary in a week in dollar 
 /**
  *
  * @author fresk
